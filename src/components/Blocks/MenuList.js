@@ -24,7 +24,7 @@ const MenuList = () => {
                 <li key={index} className="mt-5">
                 <Link
                     to={`/${page.name.toLowerCase().replace(' ', '-')}`}
-                    className="text-gray-700 hover:bg-green-900 hover:text-white rounded px-3 py-1 inline-flex items-center w-full"
+                    className="text-gray-700  rounded px-3 py-1 inline-flex items-center w-full transition duration-200 ease-in-out  hover:bg-green-900 hover:text-white"
                 >{page.icon}
                     <span className='ml-2'>{page.name}</span>
                 </Link>
