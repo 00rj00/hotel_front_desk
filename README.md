@@ -9,7 +9,7 @@ Welcome to the Hotel Front Desk project! This project aims to create a software 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/hotel_front_desk.git`
+1. Clone the repository: `git clone https://github.com/00rj00/hotel_front_desk.git`
 2. Install the required dependencies: `npm install`
 3. Start the application: `npm start`
 
