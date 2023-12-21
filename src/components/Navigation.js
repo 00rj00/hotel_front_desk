@@ -1,12 +1,11 @@
-import React from 'react';
-import { Routes, Route } from 'react-router-dom';
-import Dashboard from './menu/Dashboard';
-import FrontDesk from './menu/FrontDesk';
-import Header from './Blocks/Header';
-import MenuList from './Blocks/MenuList';
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+import Dashboard from "./menu/Dashboard";
+import FrontDesk from "./menu/FrontDesk";
+import Header from "./Blocks/Header";
+import MenuList from "./Blocks/MenuList";
 
 const Navigation = () => {
-
   return (
     <div className="flex h-screen bg-gray-200">
       <MenuList />

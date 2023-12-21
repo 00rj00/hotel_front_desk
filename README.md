@@ -5,7 +5,6 @@ Welcome to the Hotel Front Desk project! This project aims to create a software 
 ## Features
 
 - Reservation management: View reservations in a week calender.
-- Guest information: Store and retrieve guest details.
 - Room availability: Check room availability and assign rooms to guests.
 
 ## Installation
